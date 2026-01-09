@@ -30,7 +30,6 @@ A simple and interactive **Stop Watch web application** built using **React.js**
 ## ✅ Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
 
 - When the **Start** button is clicked, the stopwatch starts running  
 - When the **Stop** button is clicked, the stopwatch stops running  
@@ -41,13 +40,4 @@ A simple and interactive **Stop Watch web application** built using **React.js**
 ---
 
 
----
 
-## 💡 Quick Tips
-
-<details>
-<summary>Click to view</summary>
-
-- Use the `box-shadow` CSS property for containers:
-```css
-box-shadow: 0px 4px 16px 0px #bfbfbf;
