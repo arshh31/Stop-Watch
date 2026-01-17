@@ -1,6 +1,6 @@
 # ⏱️ Stop Watch
 
-A simple and interactive **Stop Watch web application** built using **React.js**, demonstrating component structure, state management and UI interaction handling.
+A simple and interactive **Stop Watch web application** built using **React.js**, demonstrating component structure, state management and UI interaction handling
 
 ---
 
